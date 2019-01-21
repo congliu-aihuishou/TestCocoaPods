@@ -1,0 +1,16 @@
+PODS:
+  - TestCocoaPods (0.1.0)
+
+DEPENDENCIES:
+  - TestCocoaPods (from `../`)
+
+EXTERNAL SOURCES:
+  TestCocoaPods:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TestCocoaPods: f6d173f11e3955406e82f674aa77e27c4c014e20
+
+PODFILE CHECKSUM: b8bfed69cada6c5ac5ac02c6d94e3be10ac9c7c8
+
+COCOAPODS: 1.5.0

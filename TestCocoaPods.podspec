@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'TestCocoaPods'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of TestCocoaPods.'
+  s.summary          = '测试自定制cocoapods'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
+                        只有一个简单文件 两个小方法
 TODO: Add long description of the pod here.
                        DESC
 
